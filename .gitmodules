@@ -1,0 +1,3 @@
+[submodule "ChIP-seq-pipeline"]
+	path = ChIP-seq-pipeline
+	url = https://github.com/divagar1998/ChIP-seq-pipeline.git
