@@ -1,3 +1,9 @@
 [submodule "ChIP-seq-pipeline"]
 	path = ChIP-seq-pipeline
 	url = https://github.com/divagar1998/ChIP-seq-pipeline.git
+[submodule "scRNAseq_pipeline"]
+	path = scRNAseq_pipeline
+	url = https://github.com/divagar1998/scRNAseq_pipeline.git
+[submodule "takashi_mycn_project"]
+	path = takashi_mycn_project
+	url = https://github.com/divagar1998/takashi_mycn_project.git
