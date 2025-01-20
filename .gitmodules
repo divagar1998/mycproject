@@ -9,4 +9,4 @@
 	url = https://github.com/divagar1998/takashi_mycn_project.git
 [submodule "CCLE_analysis"]
 	path = CCLE_analysis
-	url = git@github.com:divagar1998/mycproject.git
+	url = https://github.com/divagar1998/CCLE_analysis.git
